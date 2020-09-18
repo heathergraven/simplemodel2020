@@ -7,9 +7,10 @@ Original Fortran model code provided by M. Heimann and R. Keeling
 
 Main file to run the simulations is runSSPsimulations.m
 
-Other files used in the simulation are:
 RHS.m - defines system of ODEs
+
 BDprecalc.m - performs initial calculations and loads data
+
 cchems.m, cchems_co2out.m and chemi.m - perform marine carbonate chemistry calculations
 
 PlotOutput.m creates example plots of the simulation output 
